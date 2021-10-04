@@ -36,6 +36,10 @@ const Header = () => {
                             fontWeight: "bold",
                             border: "1px solid black"
                         }} className='nav-link text-dark fw-bold' to="/tutors">Tutors</NavLink>
+                        <NavLink activeStyle={{
+                            fontWeight: "bold",
+                            border: "1px solid black"
+                        }} className='nav-link text-dark fw-bold' to="/contact">Contact</NavLink>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

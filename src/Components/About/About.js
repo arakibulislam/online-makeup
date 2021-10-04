@@ -28,10 +28,10 @@ const About = () => {
 
                 <Container className='py-2'>
                     <Row className='my-5 d-flex align-items-center'>
-                        <Col onSubmit={12} lg={6}>
+                        <Col sm={12} lg={6}>
                             <img className='w-100' src={about} alt="" />
                         </Col>
-                        <Col className='bg-light py-5 px-4 shadow-lg' onSubmit={12} lg={6}>
+                        <Col className='bg-light py-5 px-4 shadow-lg' sm={12} lg={6}>
                             <h2>
                                 <b>Who Are We?</b>
                             </h2>

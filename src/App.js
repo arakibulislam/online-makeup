@@ -2,6 +2,7 @@
 import { BrowserRouter, Link, Route, Switch } from 'react-router-dom';
 import './App.css';
 import About from './Components/About/About';
+import Contact from './Components/Contact/Contact';
 import Course from './Components/Course/Course';
 import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path="/tutors">
             <Tutors></Tutors>
+          </Route>
+          <Route path = "/contact">
+            <Contact></Contact>
           </Route>
           <Route path="*">
             <Notfound></Notfound>

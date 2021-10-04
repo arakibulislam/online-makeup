@@ -19,10 +19,10 @@ const Course = () => {
             </h1>
             {
                 courses.map(course =>
-                    <Container>
+                    <Container key = {course.id}>
                         <Card className=' border-0 bg-transparent pt-5'>
                             <Row className='d-flex align-items-center'>
-                                <Col onSubmit={12} lg={7} className='overflow-hidden course-img'>
+                                <Col sm={12} lg={7} className='overflow-hidden course-img'>
                                     <Card.Img variant="top" src={course.bannerImg} />
                                 </Col>
                                 <Col sm={12} lg={5} className='course-text'>
