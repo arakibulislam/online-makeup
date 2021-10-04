@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "courseImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1604699315079-5XKAL4T7P1IFJZPZLHIB/Master+Makeup+Artist+Program?format=750w",
+        "bannerImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1604702024740-TL6E9AGPEDKDU6HEYDYA/Master+Makeup+Program+NEW.jpg?format=2500w",
+        "courseName": "Master Makeup Artist Program",
+        "skill": {
+            "one": "COVID 19 Sanitation Training",
+            "two": "Bridal Makeup Workshop",
+            "three": "Airbrush Workshop",
+            "four": "Skin Care Course"
+        },
+        "title": "BECOME A PROFESSIONAL MAKEUP ARTIST",
+        "price": "$799",
+        "discount": "$219 X 4 MONTHS",
+        "instructor": "Mariana Bull",
+        "details": " Have you ever wanted to be a makeup artist to the stars? Well now with our online makeup course you can! Join celebrity makeup artist Mariana Bull as she teaches you the latest techniques that will help you begin a successful career in this unique and exciting industry. In the course you’ll learn everything you need to know from the basic fundamentals, all the way to the advanced skills.  ",
+        "instructorImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1555369952035-A48DHINA5VYLNE5T9COW/Mariana+Bull.jpg?format=500w"
+    },
+    {
+        "id": 2,
+        "courseImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1546640570338-Q68OZE5CPDZTQVVQJO9M/online-makeup-academy-advanced.jpg?format=750w",
+        "bannerImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1605067283199-ZLCHI68LGS5MWLVGW8VU/online-makeup-academy-advanced-course-top-new.jpg?format=1500w",
+        "courseName": "Advanced Makeup Artist ",
+        "skill": {
+            "one": "High Fashion, Editorial",
+            "two": "Period, Creative Makeup",
+            "three": "Portfolio Building Workshop",
+            "four": "Business, Branding, Marketing Course"
+        },
+        "title": "BECOME A PROFESSIONAL MAKEUP ARTIST",
+        "price": "$750",
+        "discount": "$206 X 4 MONTHS",
+        "instructor": "PAULINA PECAK & Mariana Bull",
+        "details": " We have expanded on the original professional makeup kit to include everything that is needed for all Makeup Artist specializations (fashion, beauty, editorial, bridal, and beyond). This is the ultimate Makeup Artist professional kit, including incredible brand name products, that have been specifically selected by our industry experienced professional Makeup Artist team to benefit your career.  ",
+        "instructorImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1505857676000-I02A4TCKP99PFY68UQRZ/Mariana-Paulina-makeup-artists.jpg?format=500w"
+    },
+    {
+        "id": 3,
+        "courseImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1604697626692-92T9UX1RIWJZ40MN01DQ/Elite+Makeup+Program.jpg?format=750w",
+        "bannerImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1604704117212-MC6A7F973F39SJGQ22HU/Elite%C2%A0Career+Path.jpg?format=1500w",
+        "courseName": "Elite Career Path",
+        "skill": {
+            "one": "Master Makeup Program",
+            "two": "Advanced Makeup Course",
+            "three": "Professional Kit",
+            "four": "Pro Cards Discount"
+        },
+        "title": "BECOME A PROFESSIONAL MAKEUP ARTIST",
+        "price": "$1,499",
+        "discount": "$412 X 4 MONTHS",
+        "instructor": "PAULINA PECAK & Mariana Bull",
+        "details": " We have expanded on the original professional makeup kit to include everything that is needed for all Makeup Artist specializations (fashion, beauty, editorial, bridal, and beyond). This is the ultimate Makeup Artist professional kit, including incredible brand name products, that have been specifically selected by our industry experienced professional Makeup Artist team to benefit your career.  ",
+        "instructorImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1505857676000-I02A4TCKP99PFY68UQRZ/Mariana-Paulina-makeup-artists.jpg?format=500w"
+    },
+    {
+        "id": 4,
+        "courseImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1604471330145-ORTJKNGY4OKLIUUKL7PZ/Professional+Makeup+Kit+4.jpg?format=750w",
+        "bannerImg": "https://ng.zaroncosmetics.com/img/bundles/starter_kit_bundle_banner.jpg",
+        "courseName": "Professional Makeup Kit",
+        "skill": {
+            "one": "Brand Name Products",
+            "two": "Complete Kit",
+            "three": "22 Piece Brush Set",
+            "four": "Shipping From NYC"
+        },
+        "title": "Professional Makeup Kit By Online Makeup ",
+        "price": "$700",
+        "instructor": "PAULINA PECAK & Mariana Bull",
+        "details": " We have expanded on the original professional makeup kit to include everything that is needed for all Makeup Artist specializations (fashion, beauty, editorial, bridal, and beyond). This is the ultimate Makeup Artist professional kit, including incredible brand name products, that have been specifically selected by our industry experienced professional Makeup Artist team to benefit your career.  ",
+        "instructorImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1505857676000-I02A4TCKP99PFY68UQRZ/Mariana-Paulina-makeup-artists.jpg?format=500w"
+    },
+    {
+        "id": 5,
+        "courseImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1547683787555-7MEQXIXU3MJCTQ7S863Y/Special-Effects-FX-Makeup-Artist-Course.jpg?format=750w",
+        "bannerImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1547154117610-4RNK42MYVYK62FTDF0PA/online-makeup-courses-SFX-top-final-2.jpg?format=1000w",
+        "courseName": "Special Effects Makeup",
+        "skill": {
+            "one": "Film And TV Makeup",
+            "two": "Makeup Kit with Prosthetics",
+            "three": "Video Feedback From Tutor",
+            "four": "Lifetime Access"
+        },
+        "title": "BREAK INTO THE FILM/TV SPECIAL EFFECTS INDUSTRY NOW!",
+        "price": "$999",
+        "discount": "$274 X 4 MONTHS",
+        "instructor": "KRYSTLE FEHER",
+        "details": " A groundbreaking curriculum on Special Effects Makeup Artistry including all of the top professional techniques exclusively taught by industry leaders.Included in the course is a hand selected Special Effects Makeup Kit which will provide all of the tools needed to start your work within the course.Complete video training including step by step guidance - proper safety, sanitation, as well as cutting edge techniques such as prosthetics, injuries, aging, tattoos, and more.A certificate of completion will be issued upon successful mastery of the course curriculum.",
+        "instructorImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1555368579438-5UKO5P1Q6NZNIM6EWNJ5/online-makeup-academy-instructor-special-fx-course-2.jpg?format=300w"
+    },
+    {
+        "id": 6,
+        "courseImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1546640644621-T1J4CT5T35ZCYM2GWXO6/online-makeup-academy-hair.jpg?format=750w",
+        "bannerImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1605070407067-BZF8JF58FA2HVZ9G04DW/Hair-Stylist-Training-top.jpg?format=1500w",
+        "courseName": "Pro Hairstyling Course",
+        "skill": {
+            "one": "Hair kit With Mannequin Head",
+            "two": "Bridal Hairstyles",
+            "three": "Braids and Updo's",
+            "four": "Safety and Hygiene"
+        },
+        "title": "HAIR STYLIST TRAINING - FIRST ONLINE HANDS-ON COURSE!",
+        "price": "$849",
+        "discount": "$233 X 4 MONTHS",
+        "instructor": "NINA MUA",
+        "details": " This course will guide you as you look to pursue your education in professional hairstyling techniques. We will work one on one with you as you learn, beginning with the basics and then progressing into more advanced techniques. We welcome all students, including those who are just beginning and who have no previous experience in hairstyling. This hair stylist training was also designed for Makeup Artists who are looking to create a well-rounded professional portfolio and skill set. Our curriculum is perfect for artists who are pursuing work in bridal, private clients, special occasion, fashion, and film. The benefits of this course provide extended career opportunities, increasing your professional skills and providing an extra value for your clients. ",
+        "instructorImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1588790779881-5MKWW2G7OOAWU6KCDA5V/Nian+OMA+Hair+course+copy.jpg?format=300w"
+    },
+    {
+        "id": 7,
+        "courseImg": "https://i.ibb.co/bzjh4rq/hollow.jpg",
+        "bannerImg": "https://sluttyravercostumes.com/wp-content/uploads/2019/10/NYX-Cosmetics-Recommends-Halloween-Makeup-840x525.jpg",
+        "courseName": "Halloween Makeup Looks",
+        "skill": {
+            "one": "Hair kit With Mannequin Head",
+            "two": "Bridal Hairstyles",
+            "three": "Braids and Updo's",
+            "four": "Safety and Hygiene"
+        },
+        "title": "MAKEUP STYLIST TRAINING - FIRST ONLINE HANDS-ON COURSE!",
+        "price": "$499",
+        "discount": "$169 X 4 MONTHS",
+        "instructor": "Krystle Feher",
+        "details": " The Easy Halloween Makeup Looks Masterclass is designed as a hands-on workshop. Your tutor Krystle Feher brings knowledge and 13 years of extensive experience in Film and TV.Fundamentals of Halloween makeup, tips and tricks on how to plan ahead of the Halloween Season and maximize your income as an artist Looks that you can create in 30 minutes, 2 hours, and full-body designs for which you can charge a premium price.Comprehensive overview of makeup and tools you will need to start as a Halloween makeup artist",
+        "instructorImg": "https://images.squarespace-cdn.com/content/v1/554100c1e4b0821c8f87374e/1622598682950-9HQQ6HSOPN1D5CYXLZY7/online-makeup-academy-instructor-special-fx-course-2.jpeg?format=300w"
+    }
+]
